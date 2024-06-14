@@ -50,6 +50,9 @@ export default function FooterContent() {
           </Grid>
         </Container>
       </Box>
+      <Box sx={{background:"#184d47",textAlign:"center",fontFamily:"Abel",py:"15px",letterSpacing:"2px"}}>
+        Copyright © 2024 Plantrich 
+      </Box>
     </>
   );
 }
